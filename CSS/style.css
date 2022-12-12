@@ -1,0 +1,13 @@
+body{
+    background-color: #d3d3d3;
+}
+hr{
+    border-style: dotted none none;
+    border-color: #F6A7BA;
+    width: 5%;
+    border-width: 5px;
+}
+table.s{
+    cellspacing="20";
+    width: 100%;
+}
